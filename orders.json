@@ -1,0 +1,18 @@
+[
+    {
+        "order_id": "C855DF57",
+        "customer": "Alice",
+        "item": "Latte",
+        "quantity": 2,
+        "total": 8.5,
+        "status": "Cancelled"
+    },
+    {
+        "order_id": "531EA87B",
+        "customer": "Alice",
+        "item": "Latte",
+        "quantity": 2,
+        "total": 8.5,
+        "status": "Cancelled"
+    }
+]
